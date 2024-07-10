@@ -27195,7 +27195,7 @@ const imageAltText = "black and white background";
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+ */ const detailOrQuote = "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my web development experience I continually look for new and better ways to make tech accessible by all.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
