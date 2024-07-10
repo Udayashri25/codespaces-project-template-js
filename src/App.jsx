@@ -30,7 +30,7 @@ const siteProps = {
   gitHub: "Udayashri25",
   instagram: "Udayashri25",
   linkedIn: "Udayashri",
-  twitter: "udayashri_25",
+  twitter: "udayashri25",
 };
 
 const primaryColor = "#4E567E";
